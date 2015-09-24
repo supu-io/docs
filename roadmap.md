@@ -25,22 +25,22 @@ We also follow the rule that one issue fixed should be a new minor release, so
 expect to have a lot of minor version numbers changes, this will be normal.
 
 ### 0.1
-- [ ] Issue Tracker interface
-- [ ] Github Issue Tracker: Get a list of issues by status
-- [ ] Github Issue Tracker: Update issue status
-- [ ] Github Issue Tracker: Add a comment to an issue
-- [ ] Github Issue Tracker: Get issue details by id
-- [ ] Source Control interface
-- [ ] Github Source Control: Add a comment to pull request
-- [ ] Github Source Control: Create a pull request
-- [ ] Github Source Control: Accept pull request
-- [x] API to get a issues list by status
-- [ ] CLI to get a issues list by status
-- [x] API to get an issue details
-- [ ] CLI to get an issue details
-- [x] API to update an issue status
+- [ ] [Issue Tracker interface](https://github.com/supu-io/issue-tracker/issues/1)
+- [ ] [Github Issue Tracker: Get a list of issues by status](https://github.com/supu-io/issue-tracker/issues/2)
+- [ ] [Github Issue Tracker: Update issue status](https://github.com/supu-io/issue-tracker/issues/3)
+- [ ] [Github Issue Tracker: Add a comment to an issue](https://github.com/supu-io/issue-tracker/issues/4)
+- [ ] [Github Issue Tracker: Get issue details by id](https://github.com/supu-io/issue-tracker/issues/5)
+- [ ] [Source Control interface](https://github.com/supu-io/source-control/issues/1)
+- [ ] [Github Source Control: Add a comment to pull request](https://github.com/supu-io/source-control/issues/2)
+- [ ] [Github Source Control: Create a pull request](https://github.com/supu-io/source-control/issues/3)
+- [ ] [Github Source Control: Accept pull request](https://github.com/supu-io/source-control/issues/4)
+- [ ] [API to get a issues list by status](https://github.com/supu-io/api/issues/1)
+- [ ] [CLI to get a issues list by status](https://github.com/supu-io/cli/issues/1)
+- [ ] [API to get an issue details](https://github.com/supu-io/api/issues/2)
+- [ ] [CLI to get an issue details](https://github.com/supu-io/cli/issues/2)
+- [ ] [API to update an issue status](https://github.com/supu-io/api/issues/3)
 - [ ] API Error control
-- [ ] CLI to update an issue status
+- [ ] [CLI to update an issue status](https://github.com/supu-io/cli/issues/3)
 - [ ] WebHooked API to support github payloads
 - [ ] Vagrant box based on chef
 
