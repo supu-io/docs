@@ -27,7 +27,7 @@ expect to have a lot of minor version numbers changes, this will be normal.
 ### 0.1
 - [ ] [Issue Tracker interface](https://github.com/supu-io/issue-tracker/issues/1)
 - [x] [Github Issue Tracker: Get a list of issues by status](https://github.com/supu-io/issue-tracker/issues/2)
-- [ ] [Github Issue Tracker: Update issue status](https://github.com/supu-io/issue-tracker/issues/3)
+- [x] [Github Issue Tracker: Update issue status](https://github.com/supu-io/issue-tracker/issues/3)
 - [ ] [Github Issue Tracker: Add a comment to an issue](https://github.com/supu-io/issue-tracker/issues/4)
 - [ ] [Github Issue Tracker: Get issue details by id](https://github.com/supu-io/issue-tracker/issues/5)
 - [ ] [Source Control interface](https://github.com/supu-io/source-control/issues/1)
