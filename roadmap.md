@@ -34,15 +34,15 @@ expect to have a lot of minor version numbers changes, this will be normal.
 - [ ] [Github Source Control: Add a comment to pull request](https://github.com/supu-io/source-control/issues/2)
 - [ ] [Github Source Control: Create a pull request](https://github.com/supu-io/source-control/issues/3)
 - [ ] [Github Source Control: Accept pull request](https://github.com/supu-io/source-control/issues/4)
-- [ ] [API to get a issues list by status](https://github.com/supu-io/api/issues/1)
-- [ ] [CLI to get a issues list by status](https://github.com/supu-io/cli/issues/1)
+- [x] [API to get a issues list by status](https://github.com/supu-io/api/issues/1)
+- [x] [CLI to get a issues list by status](https://github.com/supu-io/cli/issues/1)
 - [ ] [API to get an issue details](https://github.com/supu-io/api/issues/2)
 - [ ] [CLI to get an issue details](https://github.com/supu-io/cli/issues/2)
 - [ ] [API to update an issue status](https://github.com/supu-io/api/issues/3)
 - [ ] API Error control
 - [ ] [CLI to update an issue status](https://github.com/supu-io/cli/issues/3)
 - [ ] WebHooked API to support github payloads
-- [ ] Vagrant box based on chef
+- [x] Vagrant box based on chef
 
 ### 0.2
 - [ ] WEB: create an account
