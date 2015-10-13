@@ -28,23 +28,24 @@ expect to have a lot of minor version numbers changes, this will be normal.
 - [x] [Issue Tracker interface](https://github.com/supu-io/issue-tracker/issues/1)
 - [x] [Github Issue Tracker: Get a list of issues by status](https://github.com/supu-io/issue-tracker/issues/2)
 - [x] [Github Issue Tracker: Update issue status](https://github.com/supu-io/issue-tracker/issues/3)
-- [ ] [Github Issue Tracker: Add a comment to an issue](https://github.com/supu-io/issue-tracker/issues/4)
 - [x] [Github Issue Tracker: Get issue details by id](https://github.com/supu-io/issue-tracker/issues/5)
-- [ ] [Source Control interface](https://github.com/supu-io/source-control/issues/1)
-- [ ] [Github Source Control: Add a comment to pull request](https://github.com/supu-io/source-control/issues/2)
-- [ ] [Github Source Control: Create a pull request](https://github.com/supu-io/source-control/issues/3)
-- [ ] [Github Source Control: Accept pull request](https://github.com/supu-io/source-control/issues/4)
 - [x] [API to get a issues list by status](https://github.com/supu-io/api/issues/1)
 - [x] [CLI to get a issues list by status](https://github.com/supu-io/cli/issues/1)
 - [x] [API to get an issue details](https://github.com/supu-io/api/issues/2)
 - [x] [CLI to get an issue details](https://github.com/supu-io/cli/issues/2)
-- [ ] [API to update an issue status](https://github.com/supu-io/api/issues/3)
-- [ ] [CLI to update an issue status](https://github.com/supu-io/cli/issues/3)
+- [x] [API to update an issue status](https://github.com/supu-io/api/issues/3)
+- [x] [CLI to update an issue status](https://github.com/supu-io/cli/issues/3)
+- [ ] Issue tracker setup
 - [ ] API Error control
-- [ ] WebHooked API to support github payloads
 - [x] Vagrant box based on chef
 
 ### 0.2
+- [ ] [Github Issue Tracker: Add a comment to an issue](https://github.com/supu-io/issue-tracker/issues/4)
+- [ ] [Source Control interface](https://github.com/supu-io/source-control/issues/1)
+- [ ] [Github Source Control: Add a comment to pull request](https://github.com/supu-io/source-control/issues/2)
+- [ ] [Github Source Control: Create a pull request](https://github.com/supu-io/source-control/issues/3)
+- [ ] [Github Source Control: Accept pull request](https://github.com/supu-io/source-control/issues/4)
+- [ ] WebHooked API to support github payloads
 - [ ] WEB: create an account
 - [ ] WEB: Configure Github Issue tracker
 - [ ] WEB: Configure Github Source Control
