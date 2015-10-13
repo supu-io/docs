@@ -45,7 +45,7 @@ expect to have a lot of minor version numbers changes, this will be normal.
 - [ ] [Github Source Control: Create a pull request](https://github.com/supu-io/source-control/issues/3)
 - [ ] [Github Source Control: Accept pull request](https://github.com/supu-io/source-control/issues/4)
 - [ ] WebHooked API to support github payloads
-- 
+
 ### *0.3* : Accounts
 - [ ] WEB: create an account
 - [ ] WEB: Configure Github Issue tracker
