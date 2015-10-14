@@ -39,7 +39,6 @@ expect to have a lot of minor version numbers changes, this will be normal.
 - [x] [API: Create new issue](https://github.com/supu-io/api/issues/10)
 - [x] [CLI: Create new issue](https://github.com/supu-io/supu/issues/6)
 - [x] [Issue tracker setup](https://github.com/supu-io/issue-tracker/issues/18)
-- [ ] [Github Issue Tracker: Add a comment to an issue](https://github.com/supu-io/issue-tracker/issues/4)
 - [x] Vagrant box based on chef
 
 ### *0.2* : Linking the source control
@@ -47,6 +46,7 @@ expect to have a lot of minor version numbers changes, this will be normal.
 - [ ] [Github Source Control: Add a comment to pull request](https://github.com/supu-io/source-control/issues/2)
 - [ ] [Github Source Control: Create a pull request](https://github.com/supu-io/source-control/issues/3)
 - [ ] [Github Source Control: Accept pull request](https://github.com/supu-io/source-control/issues/4)
+- [ ] [Github Issue Tracker: Add a comment to an issue](https://github.com/supu-io/issue-tracker/issues/4)
 - [ ] WebHooked API to support github payloads
 
 ### *0.3* : Accounts
