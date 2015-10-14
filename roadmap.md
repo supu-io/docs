@@ -39,7 +39,7 @@ expect to have a lot of minor version numbers changes, this will be normal.
 - [x] [API: Create new issue](https://github.com/supu-io/api/issues/10)
 - [x] [CLI: Create new issue](https://github.com/supu-io/supu/issues/6)
 - [x] [Issue tracker setup](https://github.com/supu-io/issue-tracker/issues/18)
-- [x] Vagrant box based on chef
+- [x] [Vagrant box based on chef](https://github.com/supu-io/supu-chef)
 
 ### *0.2* : Linking the source control
 - [ ] [Source Control interface](https://github.com/supu-io/source-control/issues/1)
