@@ -35,10 +35,10 @@ expect to have a lot of minor version numbers changes, this will be normal.
 - [x] [CLI to get an issue details](https://github.com/supu-io/cli/issues/2)
 - [x] [API to update an issue status](https://github.com/supu-io/api/issues/3)
 - [x] [CLI to update an issue status](https://github.com/supu-io/cli/issues/3)
-- [ ] Github Issue Tracker: Create new issue
-- [ ] API: Create new issue
-- [ ] CLI: Create new issue
-- [x] Issue tracker setup
+- [x] [Github Issue Tracker: Create new issue](https://github.com/supu-io/issue-tracker/issues/17)
+- [x] [API: Create new issue](https://github.com/supu-io/api/issues/10)
+- [x] [CLI: Create new issue](https://github.com/supu-io/supu/issues/6)
+- [x] [Issue tracker setup](https://github.com/supu-io/issue-tracker/issues/18)
 - [ ] [Github Issue Tracker: Add a comment to an issue](https://github.com/supu-io/issue-tracker/issues/4)
 - [x] Vagrant box based on chef
 
