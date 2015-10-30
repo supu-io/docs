@@ -41,7 +41,34 @@ expect to have a lot of minor version numbers changes, this will be normal.
 - [x] [Issue tracker setup](https://github.com/supu-io/issue-tracker/issues/18)
 - [x] [Vagrant box based on chef](https://github.com/supu-io/supu-chef)
 
-### *0.2* : Linking the source control
+### *0.2* : On the path to a configurable webhooked service.
+
+#### Introducing github-issues microservice
+- [ ] Get rid of issue-tracker-microservice (issue-tacker)
+- [ ] Basic microservice structure (github-issues-microservice)
+- [ ] GET /issues (github-issues-microservice)
+- [ ] GET /issues/:issue: (github-issues-microservice)
+- [ ] PUT /issues/:issue: (github-issues-microservice)
+- [ ] POST /issues (github-issues-microservice)
+- [ ] Call github-issues-microservice POST /issues instead of nats messaging (core)
+- [ ] Call github-issues-microservice GET /issues instead of nats messaging (api)
+- [ ] Call github-issues-microservice GET /issues/:issue: instead of nats messaging (api)
+- [ ] Call github-issues-microservice PUT /issues/:issue: instead of nats messaging (api)
+
+#### Workflow to be injected from the api
+- [ ] Allow workflow.move to accept workflow definition (core)
+- [ ] Allow workflow.states.all to accept workflow definition (core)
+- [ ] Allow workflow.states.available to accept workflow definition (core)
+- [ ] Send workflow definition to workflow.move (api)
+- [ ] Send workflow definition to workflow.states.all (api)
+- [ ] Send workflow definition to workflow.states.accept (api)
+
+#### Workflow to define webhooks for each step.
+- [ ] Webhook calls must be extracted from the workflow definition (core)
+- [ ] API should define the configured webhooks foreach transition (api)
+
+
+### *0.3* : Linking the source control
 - [ ] [Source Control interface](https://github.com/supu-io/source-control/issues/1)
 - [ ] [Github Source Control: Add a comment to pull request](https://github.com/supu-io/source-control/issues/2)
 - [ ] [Github Source Control: Create a pull request](https://github.com/supu-io/source-control/issues/3)
@@ -49,12 +76,12 @@ expect to have a lot of minor version numbers changes, this will be normal.
 - [ ] [Github Issue Tracker: Add a comment to an issue](https://github.com/supu-io/issue-tracker/issues/4)
 - [ ] WebHooked API to support github payloads
 
-### *0.3* : Accounts
+### *0.4* : Accounts
 - [ ] WEB: create an account
 - [ ] WEB: Configure Github Issue tracker
 - [ ] WEB: Configure Github Source Control
 
-### *0.4* : Multiple issue trackers 
+### *0.5* : Multiple issue trackers 
 - [ ] Jira Issue Tracker: Get a list of issues by status
 - [ ] Jira Issue Tracker: Update issue status
 - [ ] Jira Issue Tracker: Add a comment to an issue
@@ -67,7 +94,7 @@ expect to have a lot of minor version numbers changes, this will be normal.
 - [ ] WebHooked API to support Trello payloads
 - [ ] WEB: configure your issue tracker
 
-### *0.5* : Multiple source controls
+### *0.6* : Multiple source controls
 - [ ] Bitbucket Source Control: Add a comment to pull request
 - [ ] Bitbucket Source Control: Create a pull request
 - [ ] Bitbucket Source Control: Accept pull request
