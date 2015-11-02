@@ -49,6 +49,7 @@ expect to have a lot of minor version numbers changes, this will be normal.
 - [ ] [GET /issues/:issue: (github-issues-microservice)](https://github.com/supu-io/github-issues-adapter/issues/3)
 - [ ] [PUT /issues/:issue: (github-issues-microservice)](https://github.com/supu-io/github-issues-adapter/issues/4)
 - [ ] [POST /issues (github-issues-microservice)](https://github.com/supu-io/github-issues-adapter/issues/5)
+- [ ] [GET /statuses](https://github.com/supu-io/github-issues-adapter/issues/6)
 - [ ] [Call github-issues-microservice POST /issues instead of nats messaging (core)](https://github.com/supu-io/api/issues/15)
 - [ ] [Call github-issues-microservice GET /issues instead of nats messaging (api)](https://github.com/supu-io/api/issues/14)
 - [ ] [Call github-issues-microservice GET /issues/:issue: instead of nats messaging (api)](https://github.com/supu-io/api/issues/13)
