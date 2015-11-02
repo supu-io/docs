@@ -44,11 +44,11 @@ expect to have a lot of minor version numbers changes, this will be normal.
 ### *0.2* : On the path to a configurable webhooked service.
 
 #### Introducing github-issues microservice
-- [ ] [Basic microservice structure (github-issues-microservice)](https://github.com/supu-io/github-issues-adapter/issues/1)
+- [x] [Basic microservice structure (github-issues-microservice)](https://github.com/supu-io/github-issues-adapter/issues/1)
+- [x] [POST /move (github-issues-microservice)](https://github.com/supu-io/github-issues-adapter/issues/5)
 - [ ] [GET /issues (github-issues-microservice)](https://github.com/supu-io/github-issues-adapter/issues/2)
 - [ ] [GET /issues/:issue: (github-issues-microservice)](https://github.com/supu-io/github-issues-adapter/issues/3)
 - [ ] [PUT /issues/:issue: (github-issues-microservice)](https://github.com/supu-io/github-issues-adapter/issues/4)
-- [ ] [POST /issues (github-issues-microservice)](https://github.com/supu-io/github-issues-adapter/issues/5)
 - [ ] [GET /statuses](https://github.com/supu-io/github-issues-adapter/issues/6)
 - [ ] [Call github-issues-microservice POST /issues instead of nats messaging (core)](https://github.com/supu-io/api/issues/15)
 - [ ] [Call github-issues-microservice GET /issues instead of nats messaging (api)](https://github.com/supu-io/api/issues/14)
