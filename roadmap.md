@@ -49,7 +49,7 @@ expect to have a lot of minor version numbers changes, this will be normal.
 
 #### Workflow to be injected from the api
 - [x] [Allow workflow.move to accept workflow definition (core)](https://github.com/supu-io/core/issues/5)
-- [ ] [Move workflow.states.all calculation to api](https://github.com/supu-io/api/issues/20)
+- [x] [Move workflow.states.all calculation to api](https://github.com/supu-io/api/issues/20)
 - [ ] [Move workflow.states.available calculation to api](https://github.com/supu-io/api/issues/21)
 - [ ] [Send workflow definition to workflow.move (api)](https://github.com/supu-io/api/issues/16)
 
