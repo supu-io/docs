@@ -57,15 +57,15 @@ expect to have a lot of minor version numbers changes, this will be normal.
 - [ ] [Get rid of issue-tracker-microservice (issue-tacker)](https://github.com/supu-io/issue-tracker/issues/23)
 
 #### Workflow to be injected from the api
-- [ ] [Allow workflow.move to accept workflow definition (core)](https://github.com/supu-io/core/issues/5)
-- [ ] [Allow workflow.states.all to accept workflow definition (core)](https://github.com/supu-io/core/issues/6)
-- [ ] [Allow workflow.states.available to accept workflow definition (core)](https://github.com/supu-io/core/issues/7)
+- [x] [Allow workflow.move to accept workflow definition (core)](https://github.com/supu-io/core/issues/5)
+- [x] [Allow workflow.states.all to accept workflow definition (core)](https://github.com/supu-io/core/issues/6)
+- [x] [Allow workflow.states.available to accept workflow definition (core)](https://github.com/supu-io/core/issues/7)
 - [ ] [Send workflow definition to workflow.move (api)](https://github.com/supu-io/api/issues/16)
 - [ ] [Send workflow definition to workflow.states.all (api)](https://github.com/supu-io/api/issues/17)
 - [ ] [Send workflow definition to workflow.states.accept (api)](https://github.com/supu-io/api/issues/18)
 
 #### Workflow to define webhooks for each step.
-- [ ] [Webhook calls must be extracted from the workflow definition (core)](https://github.com/supu-io/core/issues/4)
+- [x] [Webhook calls must be extracted from the workflow definition (core)](https://github.com/supu-io/core/issues/4)
 - [ ] [API should define the configured webhooks foreach transition (api)](https://github.com/supu-io/api/issues/19)
 
 
