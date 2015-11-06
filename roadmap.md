@@ -51,7 +51,7 @@ expect to have a lot of minor version numbers changes, this will be normal.
 - [x] [Allow workflow.move to accept workflow definition (core)](https://github.com/supu-io/core/issues/5)
 - [x] [Move workflow.states.all calculation to api](https://github.com/supu-io/api/issues/20)
 - [x] [Move workflow.states.available calculation to api](https://github.com/supu-io/api/issues/21)
-- [ ] [Send workflow definition to workflow.move (api)](https://github.com/supu-io/api/issues/16)
+- [x] [Send workflow definition to workflow.move (api)](https://github.com/supu-io/api/issues/16)
 
 #### Workflow to define webhooks for each step.
 - [x] [Webhook calls must be extracted from the workflow definition (core)](https://github.com/supu-io/core/issues/4)
