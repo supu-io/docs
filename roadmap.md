@@ -55,7 +55,7 @@ expect to have a lot of minor version numbers changes, this will be normal.
 
 #### Workflow to define webhooks for each step.
 - [x] [Webhook calls must be extracted from the workflow definition (core)](https://github.com/supu-io/core/issues/4)
-- [ ] [API should define the configured webhooks foreach transition (api)](https://github.com/supu-io/api/issues/19)
+- [x] [API should define the configured webhooks foreach transition (api)](https://github.com/supu-io/api/issues/19)
 
 ### *0.3* : User authentication
 
